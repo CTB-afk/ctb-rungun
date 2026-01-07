@@ -1,3 +1,5 @@
+Vector / Coords: 3525.76, 3622.38, 324.07
+Vector / Coords: 3558.29, 3774.42, 310.63
 <img width="2559" height="1079" alt="rungun6" src="https://github.com/user-attachments/assets/9f9992e1-0dfb-42c8-a204-3ffb2e90b3a6" />
 <img width="2532" height="1079" alt="rungun5" src="https://github.com/user-attachments/assets/53f64980-2996-4118-83a0-a79c96d260f5" />
 <img width="2558" height="1079" alt="rungun4" src="https://github.com/user-attachments/assets/4f834c14-949b-4860-ad56-61dc9d99216d" />
